@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GeorginaAsimakopoulou, senior energy modelling analyst at E3-Modelling Energy-Economy-Environment.
+- 👀 My area of expertise is energy system modelling.
+- 🌱 I work on the development and application of mathematical programming models for energy analysis.
+- 📫 You can reach me via georginaasimakopoulou@gmail.com.
